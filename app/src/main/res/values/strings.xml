@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My User Profile</string>
+    <string name="Name">NMy User Profile Name</string>
+    <string name="Birthday">My User Profile birthday</string>
+    <string name="Country">My User Profile Country</string>
+
 </resources>
